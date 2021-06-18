@@ -1,2 +1,2 @@
-# Sum component
-- [DEMO LINK](https://<your_account>.github.io/react_sum/)
+# stopwatch
+- [DEMO LINK](https://progmari.github.io/stopwatch/)
