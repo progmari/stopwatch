@@ -1,0 +1,32 @@
+.app {
+  background-color: aquamarine;
+  height: 100vh;
+  padding: 5% 0;
+}
+
+.app-content {
+  width: 50%;
+  margin: 0 auto;
+  background-color: azure;
+  border-radius: 16px;
+  text-align: center;
+  padding: 20px;
+}
+
+.time-block {
+  width: 100%;
+  font-size: 50px;
+}
+
+.button {
+  margin: 40px 20px;
+  width: 70px;
+  height: 30px;
+  border-radius: 8px;
+  border: 2px solid darkcyan;
+  color: darkcyan;
+}
+
+.button:hover {
+  background-color: khaki;
+}
